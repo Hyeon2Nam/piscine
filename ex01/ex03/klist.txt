@@ -1,0 +1,6 @@
+Credentials cache: API:C40F181C-9D95-43FD-B065-3B5B45B7ABCB
+        Principal: hyenam@42SEOUL.KR
+
+  Issued                Expires               Principal
+Nov 18 15:03:14 2020  Nov 19 01:03:14 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
+Nov 18 15:03:16 2020  Nov 19 01:03:14 2020  HTTP/student-storage.42seoul.kr@42SEOUL.KR
